@@ -1,0 +1,84 @@
+[2026-03-27 20:41:29.353] [INFO] [MAIN] Starting application with device: /dev/video11, width: 1920, height: 1080, fps: 30, model: /root/03_project/06_LaneRecognitionSystem/model/pp_liteseg.rknn, LIME: disabled
+[2026-03-27 20:41:29.407] [INFO] [V4L2] Camera device supports Video Capture Multiplanar mode
+[2026-03-27 20:41:29.407] [INFO] [V4L2] Camera supports NV12 format, using NV12 for capture
+[2026-03-27 20:41:29.407] [WARNING] [V4L2] Failed to set camera stream parameters (FPS), using device default: Inappropriate ioctl for device
+[2026-03-27 20:41:29.407] [WARNING] [V4L2] Failed to get camera stream parameters, using default values
+[2026-03-27 20:41:29.410] [INFO] [V4L2] Exported DMA-BUF fd 11 for buffer 0
+[2026-03-27 20:41:29.410] [INFO] [V4L2] Buffer 0: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 0 mmap success: base=0x7f9b4f3000
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Exported DMA-BUF fd 12 for buffer 1
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 1: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 1 mmap success: base=0x7f9b1f6000
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Exported DMA-BUF fd 13 for buffer 2
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 2: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 2 mmap success: base=0x7f9aef9000
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Exported DMA-BUF fd 14 for buffer 3
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 3: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 3 mmap success: base=0x7f9abfc000
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Exported DMA-BUF fd 15 for buffer 4
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 4: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 4 mmap success: base=0x7f9a8ff000
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Exported DMA-BUF fd 16 for buffer 5
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 5: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 5 mmap success: base=0x7f9a602000
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Exported DMA-BUF fd 17 for buffer 6
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 6: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 6 mmap success: base=0x7f9a305000
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Exported DMA-BUF fd 18 for buffer 7
+[2026-03-27 20:41:29.411] [INFO] [V4L2] Buffer 7: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 7 mmap success: base=0x7f9a008000
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Exported DMA-BUF fd 19 for buffer 8
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 8: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 8 mmap success: base=0x7f99d0b000
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Exported DMA-BUF fd 20 for buffer 9
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 9: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 9 mmap success: base=0x7f99a0e000
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Exported DMA-BUF fd 21 for buffer 10
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 10: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 10 mmap success: base=0x7f99711000
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Exported DMA-BUF fd 22 for buffer 11
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 11: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 11 mmap success: base=0x7f99414000
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Exported DMA-BUF fd 23 for buffer 12
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 12: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 12 mmap success: base=0x7f99117000
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Exported DMA-BUF fd 24 for buffer 13
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 13: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.412] [INFO] [V4L2] Buffer 13 mmap success: base=0x7f98e1a000
+[2026-03-27 20:41:29.413] [INFO] [V4L2] Exported DMA-BUF fd 25 for buffer 14
+[2026-03-27 20:41:29.413] [INFO] [V4L2] Buffer 14: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.413] [INFO] [V4L2] Buffer 14 mmap success: base=0x7f98b1d000
+[2026-03-27 20:41:29.413] [INFO] [V4L2] Exported DMA-BUF fd 26 for buffer 15
+[2026-03-27 20:41:29.413] [INFO] [V4L2] Buffer 15: length=3133440, bytesperline=1920, sizeimage=3110400
+[2026-03-27 20:41:29.413] [INFO] [V4L2] Buffer 15 mmap success: base=0x7f98820000
+[2026-03-27 20:41:29.413] [INFO] [V4L2] Camera buffers initialized successfully: 16 buffers allocated
+[2026-03-27 20:41:29.413] [INFO] [V4L2] Camera initialized successfully: /dev/video11(1920x1080@30fps)
+[2026-03-27 20:41:29.413] [INFO] [PIPELINE] Camera initialized: 1920x1080, format: NV12, fps: 30/1
+[2026-03-27 20:41:29.413] [INFO] [RGA] RGA library initialized successfully
+[2026-03-27 20:41:29.453] [INFO] [RKNN] RKNN SDK Version: 2.3.2 (429f97ae6b@2025-04-09T09:09:27), Driver Version: 0.9.8
+[2026-03-27 20:41:29.453] [INFO] [RKNN] Model Input Num: 1, Output Num: 1
+[2026-03-27 20:41:29.453] [INFO] [RKNN] Model Input Size: 512x512, Output Size: 512x512, Class Num: 19
+[2026-03-27 20:41:29.453] [INFO] [RKNN] RKNN model loaded and initialized successfully
+[2026-03-27 20:41:29.454] [INFO] [PIPELINE] Pipeline initialized successfully
+[2026-03-27 20:41:29.454] [INFO] [MAIN] Pipeline initialized successfully, starting...
+[2026-03-27 20:41:29.530] [INFO] [V4L2] Camera streaming started successfully
+[2026-03-27 20:41:29.531] [INFO] [PIPELINE] Pipeline started successfully
+[2026-03-27 20:41:33.420] [INFO] [CALLBACK] Processed frame 30, valid: 1, lane count: 51
+[2026-03-27 20:41:34.536] [INFO] [MAIN] Pipeline status: captured=148, processed=41, dropped=107, decoded=148, inference=39, fps=8.06715
+[2026-03-27 20:41:35.113] [WARNING] [PIPELINE] Inference input throttled by TargetInputFps=10, dropped frames total=120
+[2026-03-27 20:41:37.156] [INFO] [CALLBACK] Processed frame 60, valid: 1, lane count: 66
+[2026-03-27 20:41:39.538] [INFO] [MAIN] Pipeline status: captured=298, processed=82, dropped=216, decoded=298, inference=79, fps=8.13117
+[2026-03-27 20:41:40.630] [WARNING] [PIPELINE] Inference input throttled by TargetInputFps=10, dropped frames total=240
+[2026-03-27 20:41:40.892] [INFO] [CALLBACK] Processed frame 90, valid: 1, lane count: 48
+[2026-03-27 20:41:44.542] [INFO] [MAIN] Pipeline status: captured=448, processed=124, dropped=324, decoded=448, inference=119, fps=8.21834
+[2026-03-27 20:41:44.594] [INFO] [CALLBACK] Processed frame 120, valid: 1, lane count: 41
+[2026-03-27 20:41:45.541] [INFO] [MAIN] Exit signal received, stopping pipeline...
+[2026-03-27 20:41:45.546] [INFO] [MAIN] Stopping pipeline...
+[2026-03-27 20:41:46.685] [INFO] [V4L2] Camera streaming stopped successfully
+[2026-03-27 20:41:46.700] [INFO] [PIPELINE] Pipeline stopped successfully
+[2026-03-27 20:41:46.704] [INFO] [MAIN] Application exited gracefully
+[2026-03-27 20:41:46.704] [WARNING] [PIPELINE] Pipeline is already stopped or idle, cannot stop. Current state: 0
+[2026-03-27 20:41:46.755] [INFO] [RGA] RgaProcessor destroyed and resources released
+[2026-03-27 20:41:46.755] [INFO] [MPP_ENC] MPP encoder resources released
+[2026-03-27 20:41:46.755] [INFO] [MPP_DEC] MppDecoder destroyed and resources released
+[2026-03-27 20:41:46.762] [INFO] [V4L2] Camera device closed successfully

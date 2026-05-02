@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "compilerPath": "/usr/bin/clang-14",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/app/include",
+                "${workspaceFolder}/3rdparty/rknn/include",
+                "/usr/include/opencv4",
+                "/usr/lib/gcc/aarch64-linux-gnu/12/include"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-arm64"
+        }
+    ],
+    "version": 4
+}
